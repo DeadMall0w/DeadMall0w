@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello 👋
+I am a French student who loves everything about new technologies and programming! It's been about 5 years since I started coding. 
+During this time, I've learned technologies such as:
+- Unity and C#
+- Basics of Python
+- Elementary languages for the web (HTML, CSS, JavaScript)
+- ...
 
-<!--
-**DeadMall0w/DeadMall0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently trying to learn Godot and automate tasks with Python to save time. I also create videos with friends about video games "link."
 
-Here are some ideas to get you started:
+## Some of my projects
+- My portfolio (not finished)
+- Python script to retrieve my homework
+- My Discord bot (not finished)
+- My website for learning in schools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I want to learn in the future
+- English
+- Godot
+- Linux/Ubuntu/...
+- C++ and C
