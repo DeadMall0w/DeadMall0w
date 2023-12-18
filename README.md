@@ -6,7 +6,7 @@ During this time, I've learned technologies such as:
 - Elementary languages for the web (HTML, CSS, JavaScript)
 - ...
 
-I'm currently trying to learn Godot and automate tasks with Python to save time. I also create videos with friends about video games "link."
+I'm currently trying to learn Godot and automate tasks with Python to save time. I also create videos with friends about video games [TRIKAPA](https://www.youtube.com/@Trikapa)
 
 ## Some of my projects
 - My portfolio (not finished)
