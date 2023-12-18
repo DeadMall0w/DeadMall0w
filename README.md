@@ -9,10 +9,10 @@ During this time, I've learned technologies such as:
 I'm currently trying to learn Godot and automate tasks with Python to save time. I also create videos with friends about video games [TRIKAPA](https://www.youtube.com/@Trikapa)
 
 ## Some of my projects
-- My portfolio (not finished)
-- Python script to retrieve my homework
-- My Discord bot (not finished)
-- My website for learning in schools
+- My portfolio (not finished) 
+- Python script to retrieve my homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
+- My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
+- My website for learning in schools [Devoir-ENT](https://github.com/DeadMall0w/Quizzer)
 
 ## What I want to learn in the future
 - English
