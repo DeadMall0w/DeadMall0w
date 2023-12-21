@@ -12,7 +12,7 @@ I'm currently trying to learn Godot and automate tasks with Python to save time.
 - My portfolio (not finished) 
 - Python script to retrieve my homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
 - My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
-- My website for learning in schools [Quizzer](https://github.com/DeadMall0w/Quizzer)
+- My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
 
 ## What I want to learn in the future
 - English
