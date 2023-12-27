@@ -13,6 +13,7 @@ I'm currently trying to learn Godot and automate tasks with Python to save time.
 - Python script to retrieve my homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
 - My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
 - My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
+- Ascii maze in C# [C-sharp-asciil-maze](https://github.com/DeadMall0w/C-sharp-asciil-maze)
 
 ## What I want to learn in the future
 - English
