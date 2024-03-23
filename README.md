@@ -9,9 +9,10 @@ During this time, I've learned technologies such as:
 I'm currently trying to learn Godot and automate tasks with Python to save time. I also create french videos with friends about video games [TRIKAPA](https://www.youtube.com/@Trikapa)
 
 ## Some of my projects
-- My portfolio [(not finished)](https://deadmall0w.github.io/) (only in french for now)
+- My portfolio [DeadMall0w.github.io](https://deadmall0w.github.io/) (only in french for now)
 - Python script to retrieve my homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
 - My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
+- My little strategy board game [Mon-Jeu-Internet](https://deadmall0w.github.io/Mon-jeu-Internet/)
 - My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
 - Ascii maze in C# [C-sharp-asciil-maze](https://github.com/DeadMall0w/C-sharp-asciil-maze)
 
