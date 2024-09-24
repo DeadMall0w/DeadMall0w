@@ -4,13 +4,13 @@ During this time, I've learned technologies such as:
 - Unity and C#
 - Basics of Python
 - Elementary languages for the web (HTML, CSS, JavaScript)
-- ...
+- Godot
 
-I'm currently trying to learn Godot and automate tasks with Python to save time. I also create french videos with friends about video games [TRIKAPA](https://www.youtube.com/@Trikapa)
+I'm studying programmation and electronics at IG2I - Centralelille
 
 ## Some of my projects
 - My portfolio [DeadMall0w.github.io](https://deadmall0w.github.io/) (only in french for now)
-- Python script to retrieve my homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
+- Python script to retrieve homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
 - My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
 - My little strategy board game [Mon-Jeu-Internet](https://deadmall0w.github.io/Mon-jeu-Internet/)
 - My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
