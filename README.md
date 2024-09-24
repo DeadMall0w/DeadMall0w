@@ -18,6 +18,6 @@ I'm studying programmation and electronics at IG2I - Centralelille
 
 ## What I want to learn in the future
 - English
-- Godot
 - Linux/Ubuntu/...
 - C++ and C
+
