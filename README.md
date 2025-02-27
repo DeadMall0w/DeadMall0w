@@ -3,14 +3,15 @@ I am a French student who loves everything about new technologies and programmin
 
 I'm studying programmation and electronics at IG2I - Centralelille
 
-## My stats 
-![DeadMall0w's Stats](https://github-readme-stats.vercel.app/api?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+## Some of my projects
+- My portfolio [DeadMall0w.github.io](https://deadmall0w.github.io/)
+- Python script to retrieve homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
+- My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
+- My little strategy board game [Mon-Jeu-Internet](https://deadmall0w.github.io/Mon-jeu-Internet/)
+- My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
+- Ascii maze in C# [C-sharp-asciil-maze](https://github.com/DeadMall0w/C-sharp-asciil-maze)
 
-![DeadMall0w's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeadMall0w&theme=ayu-mirage&hide_border=true)
-
-![DeadMall0w's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned (sorted by skill) </h2>
+## 🚀 &nbsp;Some Tools I Have Used and Learned (sorted by skill)
 <p align="left"> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -28,14 +29,12 @@ I'm studying programmation and electronics at IG2I - Centralelille
 
 </p>
 
+## My stats 
+![DeadMall0w's Stats](https://github-readme-stats.vercel.app/api?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
 
-## Some of my projects
-- My portfolio [DeadMall0w.github.io](https://deadmall0w.github.io/)
-- Python script to retrieve homework [Devoir-ENT](https://github.com/DeadMall0w/Devoir-ENT)
-- My Discord bot (not finished) [DeadMabot](https://github.com/DeadMall0w/DeadMabot)
-- My little strategy board game [Mon-Jeu-Internet](https://deadmall0w.github.io/Mon-jeu-Internet/)
-- My website for learning in school [Quizzer](https://github.com/DeadMall0w/Quizzer)
-- Ascii maze in C# [C-sharp-asciil-maze](https://github.com/DeadMall0w/C-sharp-asciil-maze)
+![DeadMall0w's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeadMall0w&theme=ayu-mirage&hide_border=true)
+
+![DeadMall0w's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 
 ## What I want to learn in the future
 - English
