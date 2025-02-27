@@ -30,11 +30,11 @@ I'm studying programmation and electronics at IG2I - Centralelille
 </p>
 
 ## My stats 
-![DeadMall0w's Stats](https://github-readme-stats.vercel.app/api?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+![DeadMall0w's Stats](https://github-readme-stats.vercel.app/api?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
 
-![DeadMall0w's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeadMall0w&theme=ayu-mirage&hide_border=true)
+![DeadMall0w's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeadMall0w&theme=ayu-mirage&hide_border=false)
 
-![DeadMall0w's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+![DeadMall0w's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeadMall0w&theme=ayu-mirage&show_icons=true&hide_border=false&layout=compact)
 
 ## What I want to learn in the future
 - English
