@@ -1,7 +1,7 @@
 ## Hello 👋
 I am a French student who loves everything about new technologies and programming! It's been about 6 years since I started coding. 
 
-I'm studying programmation and electronics at IG2I - Centralelille
+I'm studying computer science and electronics at IG2I - Centrale Lille
 
 ## Some of my projects
 - My portfolio [DeadMall0w.github.io](https://deadmall0w.github.io/)
